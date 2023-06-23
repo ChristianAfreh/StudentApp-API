@@ -1,0 +1,15 @@
+D:\DevProjects\SIS_New\SIS.Shared\bin\Debug\net5.0\SIS.Shared.deps.json
+D:\DevProjects\SIS_New\SIS.Shared\bin\Debug\net5.0\SIS.Shared.runtimeconfig.json
+D:\DevProjects\SIS_New\SIS.Shared\bin\Debug\net5.0\SIS.Shared.runtimeconfig.dev.json
+D:\DevProjects\SIS_New\SIS.Shared\bin\Debug\net5.0\SIS.Shared.dll
+D:\DevProjects\SIS_New\SIS.Shared\bin\Debug\net5.0\SIS.Shared.pdb
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.csproj.AssemblyReference.cache
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.AssemblyInfoInputs.cache
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.AssemblyInfo.cs
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.csproj.CoreCompileInputs.cache
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.dll
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.pdb
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\SIS.Shared.genruntimeconfig.cache
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\ref\SIS.Shared.dll
+D:\DevProjects\SIS_New\SIS.Shared\obj\Debug\net5.0\refint\SIS.Shared.dll
